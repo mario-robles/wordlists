@@ -1,4 +1,4 @@
-# Useful Wordlists for Fuzzing or creating custom Crunch wordlists
+# Useful Wordlists for Fuzzing, WPA-PSK cracking or brute forcing
 
 Current contents:
 
